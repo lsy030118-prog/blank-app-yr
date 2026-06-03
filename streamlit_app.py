@@ -9,7 +9,7 @@ import pandas as pd
 import streamlit as st
 
 st.set_page_config(page_title="절댓값 두 개 부등식 그래프", layout="centered")
-st.title("📐 고1 수학: 절댓값 두 개 부등식 그래프")
+st.title("📐 공통수학1: 절댓값을 포함한 일차부등식")
 st.write(" 학습목표: 절댓값을 포함한 일차부등식을 풀 수 있다!")
 st.caption("예시: `|x-1| + |2x+3| <= 5` 또는 `|3x+2| - |x-4| > 1`")
 
